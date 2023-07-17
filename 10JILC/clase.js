@@ -1,0 +1,10 @@
+const p = 3.14;
+var A = Juan;
+console.log( "A vale " + a);
+var b = José;
+console.log("B vale " + b);
+c = a;
+a = b;
+b = c;
+console.log("Ahora A se llama " + a);
+console.log("Ahora B se llama " + b);
